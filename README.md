@@ -20,3 +20,5 @@
 - comentarios e interpretaciones son de creación propia.
 - Verificación: confirmo que entiendo y puedo explicar todo lo que entrego.
 ```
+
+
